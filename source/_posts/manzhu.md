@@ -12,7 +12,6 @@ tags:
 ![](https://images.unsplash.com/photo-1478932646705-c8e02fe8a149?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
 
 
-
 <p style="text-indent:2em">
 家乡有个传说，说人死了是会有灵魂的，有个地方叫奈何桥，灵魂们就在那里等着排队过桥，桥的对面是一番新的人世，他们把过桥称作轮回。
 </p>
